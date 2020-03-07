@@ -1,4 +1,4 @@
-package com.journaldev.utils;
+package com.captchadev.utils;
 
 import java.io.BufferedReader;
 import java.io.DataOutputStream;

@@ -1,4 +1,4 @@
-package com.journaldev.servlet;
+package com.captchadev.servlet;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.journaldev.utils.VerifyRecaptcha;
+import com.captchadev.utils.VerifyRecaptcha;
 
 /**
  * Servlet implementation class LoginServlet
